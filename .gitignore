@@ -13,3 +13,14 @@
 .externalNativeBuild
 .cxx
 local.properties
+# .gitignore
+*.pyc
+*~
+\#*\#
+.\#*headless_output.txt
+.\#EIO*
+.\#*
+.DS_Store
+DJI_*.JPG
+*.ATHENA
+skydio*.jpg
